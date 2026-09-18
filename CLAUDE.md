@@ -1,3 +1,24 @@
+# Mkdirs (MkThingsHQ/mkdirs)
+
+## 프로젝트 개요
+유용한 AI 도구나 서비스들을 한곳에 예쁘게 모아놓는 추천 큐레이션 웹사이트를 몇 분 만에 뚝딱 완성하는 "AI 디렉토리 웹사이트 템플릿"
+검색 기능, 카테고리 필터링, 반응형 카드 디자인까지 완비되어 있어 나만의 정보 아카이브 사이트를 순식간에 런칭
+콘텐츠만 채워 넣으면 멋진 수익형 디렉토리 서비스나 사내 도구 모음집으로 바로 활용 가능한 만능 템플릿
+
+## 핵심 특징 & 추천 분야
+- AI디렉토리템플릿
+- 원클릭웹사이트제작
+- 큐레이션아카이브
+- 검색친화형디자인
+- 초고속서비스런칭
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
